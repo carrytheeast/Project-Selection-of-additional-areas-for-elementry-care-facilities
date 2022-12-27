@@ -4,7 +4,10 @@ This project was conducted in the fall semester of Pukyong National University's
 
 ![result_clustering](https://user-images.githubusercontent.com/98952505/209720536-ff7c2925-be27-44da-9037-08bd1010104a.png)
 
-Used Folium, GeoPandas, Kakao API, Robust Scaler, Sihouette score, PCA, Kmeans, MiniBatchKmeans, MeanShift, DBSCAN, SpectralClustering, GaussianMixture, Birch, AffinityPropagation, AgglomerativeClustering
+![image](https://user-images.githubusercontent.com/98952505/209720992-c37b251c-2859-46ff-8a94-bf49d816ebe5.png)
+
+
+Used Kakao API, Folium, GeoPandas, Robust Scaler, Sihouette score, PCA, Kmeans, MiniBatchKmeans, MeanShift, DBSCAN, SpectralClustering, GaussianMixture, Birch, AffinityPropagation, AgglomerativeClustering
 
 ## References
 
