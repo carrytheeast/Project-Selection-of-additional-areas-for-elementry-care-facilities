@@ -1,20 +1,14 @@
-# Project-Selection-of-additional-areas-for-elementry-care-facilities
-Project Selection of additional areas for elementry care facilities
-
-Project in 2022(11.09 ~ 11.11) - Analysis of important factors in the incidence of heart disease and prediction model
+Project in 2022.10 - Selection of additional areas for elementry care facilities in Busan of KOREA
 
 This project was conducted in the fall semester of Pukyong National University's third year.
 
-![image](https://user-images.githubusercontent.com/98952505/209425901-61914fe9-296b-44ab-a717-834d9cd0bca4.png)
+![result_clustering](https://user-images.githubusercontent.com/98952505/209720536-ff7c2925-be27-44da-9037-08bd1010104a.png)
 
-Used LightGBM, Optuna, Smote, robustScaler, ordinalEncoding, stratifiedKFold crossValidation
-
+Used Folium, GeoPandas, Kakao API, Robust Scaler, Sihouette score, PCA, Kmeans, MiniBatchKmeans, MeanShift, DBSCAN, SpectralClustering, GaussianMixture, Birch, AffinityPropagation, AgglomerativeClustering
 
 ## References
 
-- [https://github.com/optuna/optuna](https://github.com/optuna/optuna)
-- [https://github.com/kaggler-tv](https://github.com/kaggler-tv)
+About Dataset
 
-About Dataset in Kaggle - Key Indicators of Heart Disease
-
-- [https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease)
+- [https://kosis.kr/](https://kosis.kr/)
+- [https://www.data.go.kr/](https://www.data.go.kr/)
